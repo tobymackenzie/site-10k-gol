@@ -1,0 +1,1 @@
+!function(e,n){if("querySelectorAll"in n&&(!e.operamini||"[object OperaMini]"!=={}.toString.call(e.operamini))){var i=function(e,i){var r=n.getElementsByTagName("script")[0],t=n.createElement("script");return t.src=e,t.async=!0,r.parentNode.insertBefore(t,r),i&&"function"==typeof i&&(t.onload=i),t};i(TJM.baseUrl+"/main.js")}}(window,window.document);

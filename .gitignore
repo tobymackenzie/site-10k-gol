@@ -3,9 +3,4 @@
 *.swp
 .DS_Store
 .sass-cache
-/*.css
-/*.js
-/index.php
-/info/
-/project/
 /vendor/
